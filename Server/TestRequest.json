@@ -1,0 +1,20 @@
+{
+         "id":45,
+         "encoding":"application/x-www-form-urlencoded",
+         "headers":"Content-Type: application/x-www-form-urlencoded",
+         "method":"POST",
+         "name":"ParkingRequest",
+         "payload":"{\n  \"long\":\"4.867826\",\n  \"lat\":\"50.467089\",\n  \"city\":\"Namur\",\n  \"option\":\"ssz\",\n  \"hour\":\"16\",\n  \"minutes\":\"45\" \n}",
+         "project":8,
+         "skipHeaders":false,
+         "skipHistory":false,
+         "skipMethod":false,
+         "skipParams":false,
+         "skipPath":false,
+         "skipPayload":false,
+         "skipProtocol":false,
+         "skipServer":false,
+         "time":1396700208244,
+         "url":"http://172.17.127.225:8888/parkingRequest",
+         "driveId":""
+      }
